@@ -1,0 +1,22 @@
+
+
+[sticky]
+  [cls]Shell_TrayWnd[/cls]
+  [cls]Winamp v1.x[/cls]
+  [cls]Winamp PE[/cls]
+  [cls]Winamp EQ[/cls]
+  [cls]Winamp Gen[/cls]
+  [txt]Windows Task Manager[/txt]
+  [txt]Virtual Desktop Manager - [VDM] Setup[/txt]
+[end]
+
+; ndx | style | path
+;   xCenter  = 0
+;   xTile    = 1
+;   xStretch = 2
+[wallpaper]
+  1|2|G:\_work\sys-vdm\_skin\a gift of moonlight - blue.jpg
+  2|2|G:\_work\sys-vdm\_skin\dereliction_1280x1024.jpg
+  3|0|G:\_work\sys-vdm\_skin\heacarol7.jpg
+  4|1|G:\_work\sys-vdm\_skin\AtlantesPulse.jpg
+[end]

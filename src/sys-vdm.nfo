@@ -1,0 +1,101 @@
+
+ --[ System -Virtual Desktop Manager- ]--
+        --[ sys-vdm v0.9.123 ]--
+
+About:
+-----
+
+  A Linux-like multiple desktop engine for your Microsoft Windows OS
+ that allows the user to take a hold of the desktop environment.  Many
+ of the other programmers making Virtual Window Managers (vwm) who
+ simply moved your windows off screen to create this effect had
+ trouble loosing windows or could not move all windows in a program.
+ Litestep and SharpE fell into this problem but would fix it through
+ extra coding.  However the method used here; hiding windows has a
+ greater advantage of freeing up your taskbar items, memory usage 
+ as well as not loosing the position of your workspace.
+	Like any multi-desktop environment there are some programs
+ that do not work well with either being moved to another location
+ far off the screen (usually in a negative (x, y) position) or with
+ being forced to hide (really rare).  This is issue is fixed by
+ allowing you to force specified windows to stay “sticky” – a method
+ that allows windows to not hide on switch of desktop workspace.
+
+
+Features:
+--------
+
+  - Automatic self-update
+  - Windows 2000/XP Alpha Transparency
+  - Changeable VWM refresh rate
+    (VWM - Virtual Window Manager)
+  - Memorize Start-Up Position
+  - Startup with Windows OS.
+  - Lock Toolbar Window
+  - Gather All Desktops
+  - VDM Window Z-Order position
+    + VDM-Toolbar OnTop
+    + VDM-Toolbar Apart of Desktop
+    + VDM-Toolbar No Z-Order
+  - Custom Backgrounds on each desktop.
+    + Stretch, Center or Tiled
+    + Custom Backgound Color per Desktop
+  - EZ Sticky Window Editor
+    Presets:
+    + WINAMP
+    + Shell_TrayWnd    (Windows Taskbar)
+    + "Windows Task Manager"
+
+
+Future Features:
+---------------
+
+  - Movable VWM.
+    This will give the ability to move Windows from one Desktop to another.
+
+-	Effortless Updating System
+
+
+Dependencies:
+------------
+
+  These Critical Files are for the Self-Updating system.
+
+  MSWinSCK.ocx
+  urlmon.dll
+
+
+
+Updates:
+-------
+0.9.122: [2006-12-26]
+  Various Upgrades.. (can't remember right now)
+
+0.9.113:
+
+  Applied backgound image switch with backgound color change, which is
+  useful on Windows' systems earlier than 2000/XP.
+
+0.9.100: [2005]
+  
+  Loosing windows during rapid switching fixed by dissabling sys-vdm
+  momentairly until switch of desktops is completely finished.
+
+0.9.94: [2005-02-15]
+
+  Loosing windows fixed through careless index number.
+  'Sticky Windows' upgraded.
+
+0.5.51: [2004-11-30]
+
+  Initial release.
+
+
+
+=====================================
+
+for any questions/comments contact Damian Suess.
+
+  http://www.vbStatic.net/
+
+-eof-
