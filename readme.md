@@ -83,6 +83,9 @@ These critical files are for the Program & Self-Updating system (not included).
 [Download](http://www.microsoft.com/downloads/details.aspx?familyid=7b9ba261-7a9c-43e7-9117-f673077ffb3c&displaylang=en) - VB6 Run-Time Redistro Service Pack 6
 
 ## History
+
+This project was origionally hosted at [CodeProject.com](https://www.codeproject.com/Articles/20500/System-Virtual-Desktop-Manager), back before GitHub, and the only other options were SourceForge.com and PlanetSourceCode.com. CodeProject was more crisp and clean for sharing projects and ideas.
+
 * 0.9.122: [2006-12-26]
   * Various Upgrades.. (can't remember right now)
 * 0.9.113
