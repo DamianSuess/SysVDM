@@ -4,6 +4,9 @@ Xeno Innovations' - Virtual Desktop Manager allows you to run 4 different deskto
 
 ![](visual-help2.png)
 
+> Tags: _CEO
+COM, Windows 2003, Visual Basic 6, Windows 2000, Design / Graphics, Architect, Advanced, Windows XP, Intermediate, Dev, Windows, .NET, Visual Basic_
+
 ## Introduction
 
 This is a Linux-like **multiple desktop engine** (virtual desktop manager) for your Microsoft Windows OS that allows the user to take a hold of the desktop environment. Many of the other programmers who made a Virtual Window Manager (VWM) simply moved your windows off screen to create this effect had trouble losing windows or could not move all windows in a program. Litestep and SharpE fell into this problem but would fix it through extra coding. However the method used here; hiding windows has a greater advantage of freeing up your taskbar items, memory usage as well as not losing the position of your workspace.
