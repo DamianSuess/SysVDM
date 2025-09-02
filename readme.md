@@ -1,5 +1,7 @@
 # System - Virtual Desktop Manager
 
+> Archive of one of my older projects dating back to 2004 written in VB6
+
 Xeno Innovations' - Virtual Desktop Manager allows you to run 4 different desktops without filling up the taskbar and minimized GDI usage. (virtual window manager vdm vwm)
 
 ![](visual-help2.png)
